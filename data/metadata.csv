@@ -1,0 +1,72 @@
+waypoint_name,lat,long,elevation,deployed,retreived,year,logger_name,sensor_type,csv_name,location_description
+B1,39.71904603,-123.651931,424.729126,6/2/15,9/18/15,2015,2,ibutton,2015_2ScienceCenter.csv,
+B10,39.73279998,-123.646385,401.473358,6/2/15,9/18/15,2015,3,ibutton,2015_3Petes.csv,
+B11 B12,39.73593196,-123.631594,440.549347,6/2/15,9/18/15,2015,4,ibutton,2015_4Lowerwalker.csv,
+B13,39.74762497,-123.633003,427.404297,6/2/15,9/18/15,2015,7,ibutton,2015_7Whitehouse.csv,
+B15 B16,39.75576396,-123.631256,377.065369,4/11/15,9/18/15,2015,8,ibutton,2015_8Tenmileconfluence.csv,
+B18,39.75894397,-123.63721,358.741516,5/9/15,9/18/15,2015,9,ibutton,2015_9Hunters.csv,
+B20,39.74136896,-123.634156,396.329651,4/11/15,9/18/15,2015,5,ibutton,2015_5Wilderness.csv,
+B07,39.72586504,-123.644719,413.638458,5/12/16,10/7/16,2016,B7,ibutton,2016_B7_rwgrove_bskunk.csv,"redwood grove, downstream of skunk"
+B08,39.72796102,-123.646895,410.521454,5/12/16,10/7/16,2016,B8,ibutton,2016_B8_u_elder.csv,"above elder at EoE site ""Above Upper"""
+B1,39.71904603,-123.651931,424.729126,5/12/16,10/7/16,2016,B1,ibutton,2016_B1_t_gaugepool.csv,"Science center, tail of gauge pool"
+B09,39.728778,-123.648631,404.86499,5/12/16,10/7/16,2016,B09,ibutton,2016_B9_belder.csv,
+B10,39.73279998,-123.646385,401.473358,5/12/16,10/7/16,2016,B10,ibutton,2016_B10_petes.csv,upstream of petes pool
+B11 B12,39.73593196,-123.631594,440.549347,5/12/16,10/7/16,2016,B11,ibutton,2016_B11_lowerwalker.csv,head of walker meadow pool
+B13,39.74762497,-123.633003,427.404297,5/13/16,10/7/16,2016,B13,ibutton,2016_B13_t_whitehouse.csv,Whitehouse pool tail
+B14,39.75393897,-123.631477,378.567352,5/13/16,10/7/16,2016,B14,ibutton,2016_B14_u_tenmile.csv,cascade upstream of 10mile pool
+B15 B16,39.75576396,-123.631256,377.065369,5/13/16,10/7/16,2016,B15,ibutton,2016_B15_t_tenmile.csv,tail of 10mile confluence pool
+B18,39.75894397,-123.63721,358.741516,5/13/16,10/7/16,2016,B18,ibutton,2016_B18_t_hunters.csv,tail of Hunter's pool
+B19,39.74239198,-123.637935,393.995605,5/13/16,10/7/16,2016,B19,ibutton,2016_B19_d_mereganser.csv,merganser dippers nest
+B2,39.71903102,-123.652433,433.201935,5/12/16,10/7/16,2016,B2,ibutton,2016_B2_u_gaugepool.csv,upstream of gauge pool in bedrock chute
+B20,39.74136896,-123.634156,396.329651,5/13/16,10/7/16,2016,B20,ibutton,2016_B20_t_wilderness.csv,tail wilderness pool riffle
+B21,39.74026004,-123.63242,449.579559,5/14/16,10/7/16,2016,B21,ibutton,2016_B21_u_wilderness.csv,upstream of wilderness
+B22,39.739735,-123.632129,445.306152,5/14/16,10/7/16,2016,B22,ibutton,2016_B22_u_fox.csv,upstream of fox creek
+B3,39.72345198,-123.645759,416.898438,5/12/16,10/7/16,2016,B3,ibutton,2016_B3_u_skunk.csv,upstream of skunk
+B5,39.72395397,-123.64843,420.932983,5/12/16,10/7/16,2016,B5,ibutton,2016_B5_d_edells.csv,downsream of edells
+B6,39.72395397,-123.64843,420.932983,5/12/16,10/7/16,2016,B6,ibutton,2016_B6_d_edells.csv,downsream of edells
+B4,39.72330797,-123.646977,421.954559,5/12/16,10/7/16,2016,B4,ibutton,2016_B4_d_edels.csv,"upstream of skunk, downstream of Edells"
+B09,39.728778,-123.648631,404.86499,5/13/17,10/2/17,2017,30,ibutton,2017_30_b_elder.csv,"downstream of elder, EoE site ""Below Upper"""
+B1,39.71904603,-123.651931,424.729126,5/13/17,10/2/17,2017,40,ibutton,2017_40_t_gaugepool.csv,"Science center, tail of gauge pool"
+B10,39.73279998,-123.646385,401.473358,5/15/17,10/2/17,2017,4,ibutton,FOUND! 2018,upstream of petes pool
+B5_6,39.72395397,-123.64843,420.932983,5/13/17,10/2/17,2017,18,ibutton,2017_18_b_edells.csv,
+B08,39.72796102,-123.646895,410.521454,5/15/17,10/2/17,2017,13,ibutton,2017_13_au_elder_eoe.csv,
+B07,39.72586504,-123.644719,413.638458,5/15/17,10/2/17,2017,26,ibutton,2017_26_rgrove.csv,
+B11 B12,39.73593196,-123.631594,440.549347,5/15/17,10/2/17,2017,23,ibutton,2017_23_u_lwalker.csv,head of lower walker meadow pool
+B13,39.74762497,-123.633003,427.404297,5/14/17,10/2/17,2017,24,ibutton,2017_24_t_whitehouse.csv,Whitehouse pool tail
+B15 B16,39.75576396,-123.631256,377.065369,5/14/17,10/2/17,2017,34,ibutton,2017_34_t_tenmilepool.csv,tail of 10mile confluence pool
+B18,39.75894397,-123.63721,358.741516,5/14/17,10/2/17,2017,36,ibutton,2017_36_t_hunters.csv,tail of Hunter's pool
+B19,39.74239198,-123.637935,393.995605,5/14/17,10/2/17,2017,17,ibutton,2017_17_b_merganser.csv,merganser dippers nest
+B2,39.71903102,-123.652433,433.201935,5/13/17,10/2/17,2017,39,ibutton,2017_39_u_gaugepool.csv,upstream of gauge pool in bedrock chute
+B20,39.74136896,-123.634156,396.329651,5/14/17,10/2/17,2017,7,ibutton,2017_7_t_wld.csv,wilderness tail
+B21,39.74026004,-123.63242,449.579559,5/14/17,10/2/17,2017,10,ibutton,2017_10_uwld_dskunk.csv,upstream of wilderness
+B22,39.739735,-123.632129,445.306152,5/14/17,10/2/17,2017,11,ibutton,2017_11_u_fox.csv,upstream of fox creek
+B3,39.72345198,-123.645759,416.898438,5/13/17,10/2/17,2017,32,ibutton,2017_32_u_skunk.csv,upstream of skunk
+B4,39.72330797,-123.646977,421.954559,5/13/17,10/2/17,2017,1,ibutton,2017_1_uskunk_bedell.csv,"upstream of 31 and 32, downstream of Edell's"
+B08,39.72796102,-123.646895,410.521454,5/12/18,9/1/18,2018,above_upper_elder,hobo,2018_above_upper_elder.csv,"above elder at EoE site ""Above Upper"""
+B09,39.728778,-123.648631,404.86499,5/12/18,9/1/18,2018,below_upper_elder,hobo,2018_below_upper_elder.csv,"downstream of elder, EoE site ""Below Upper"""
+B5_6,39.72395397,-123.64843,420.932983,5/12/18,9/1/18,2018,,hobo,2018_below_edells.csv,
+B07,39.725865,-123.64472,413.638458,5/12/18,9/1/18,2018,,hobo,2018_redwood_grove.csv,
+B10,39.73279998,-123.646385,401.473358,5/12/18,9/1/18,2018,petes,hobo,2018_petes.csv,upstream of petes pool
+B11 B12,39.73593196,-123.631594,440.549347,5/12/18,9/1/18,2018,lower_walker,hobo,2018_lower_walker.csv,head of lower walker meadow pool
+B14,39.75393897,-123.631477,378.567352,5/12/18,9/1/18,2018,above_10mile_cascade,hobo,2018_above_10mile_cascade.csv,Cascade above tenmile confluence pool
+B15 B16,39.75576396,-123.631256,377.065369,5/12/18,9/1/18,2018,tenmilepool_tail,hobo,2018_tenmilepool_tail.csv,tail of 10mile confluence pool
+B18,39.75894397,-123.63721,358.741516,5/12/18,9/1/18,2018,hunters_tail_bar,hobo,2018_hunters_tail_bar.csv,"tail of Hunter's pool, attached to rebar"
+B19,39.74239198,-123.637935,393.995605,5/12/18,9/1/18,2018,merganser,hobo,2018_merganser.csv,merganser dippers nest
+B2,39.71903102,-123.652433,433.201935,5/12/18,9/1/18,2018,science_center,hobo,2018_science_center.csv,upstream of gauge pool in bedrock chute
+B20,39.74136896,-123.634156,396.329651,5/12/18,9/1/18,2018,wilderness_tail,hobo,2018_wilderness_tail.csv,wilderness tail
+B21,39.74026004,-123.63242,449.579559,5/12/18,9/1/18,2018,below_fox,hobo,2018_below_fox.csv,upstream of wilderness
+B3,39.72345198,-123.645759,416.898438,5/12/18,9/1/18,2018,skunk,hobo,2018_skunk.csv,"upstream of skunk, in bedrock feature"
+B08,39.72796102,-123.646895,410.521454,5/10/19,8/29/19,2019,13,hobo,2019_above_upper_elder.csv,"above elder at EoE site ""Above Upper"""
+B09,39.728778,-123.648631,404.86499,5/10/19,8/29/19,2019,12,hobo,2019_below_upper_elder.csv,"downstream of elder, EoE site ""Below Upper"""
+B5_6,39.72395397,-123.64843,420.932983,5/10/19,8/29/19,2019,,hobo,2019_below_edells.csv,
+B7,39.72586504,-123.644719,413.638458,5/10/19,8/29/19,2019,B7,hobo,2019_redwood_grove.csv,
+B10,39.73279998,-123.646385,401.473358,5/10/19,8/29/19,2019,11,hobo,2019_petes.csv,upstream of petes pool
+B11 B12,39.73593196,-123.631594,440.549347,5/10/19,8/29/19,2019,10,hobo,2019_lower_walker.csv,head of lower walker meadow pool
+B13,39.74762497,-123.633003,427.404297,5/10/19,8/29/19,2019,20,hobo,2019_whitehouse_tail.csv,Whitehouse pool tail
+B14,39.75393897,-123.631477,378.567352,5/10/19,8/29/19,2019,5,hobo,2019_above_10mile_cascade.csv,Cascade above tenmile confluence pool
+B15 B16,39.75576396,-123.631256,377.065369,5/10/19,8/29/19,2019,3,hobo,2019_tenmilepool_tail.csv,tail of 10mile confluence pool
+B18,39.75894397,-123.63721,358.741516,5/10/19,8/29/19,2019,2,hobo,2019_hunters_tail_bar.csv,"tail of Hunter's pool, attached to rebar"
+B2,39.71903102,-123.652433,433.201935,5/10/19,8/29/19,2019,17,hobo,2019_science_center.csv,upstream of Gauge pool in bedrock chute
+B20,39.74136896,-123.634156,396.329651,5/10/19,8/29/19,2019,8,hobo,2019_wilderness_tail.csv,wilderness tail
+B21,39.74026004,-123.63242,449.579559,5/10/19,8/29/19,2019,19,hobo,2019_below_fox.csv,upstream of wilderness
+B3,39.72345198,-123.645759,416.898438,5/10/19,8/29/19,2019,15,hobo,2019_skunk.csv,"upstream of skunk, in bedrock feature"
